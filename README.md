@@ -1,5 +1,7 @@
 # Data-mining
 
+Wisconsin breast cancer diagnostic dataset is named as data.csv
+
 
 Readmefile in word
 --------
